@@ -1,9 +1,9 @@
 #import dependencies
 from flask import Flask, render_template, redirect, url_for
-import pymongo
-from pymongo import MongoClient
-# from config import *
-import os
+# import pymongo
+# from pymongo import MongoClient
+# # from config import *
+# import os
 
 # app.config["MONGO_URL"] = os.environ.get("MONGO_URL")
 # mongo = PyMongo(app)
